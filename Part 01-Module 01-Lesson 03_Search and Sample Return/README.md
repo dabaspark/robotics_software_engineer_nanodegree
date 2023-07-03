@@ -1,4 +1,4 @@
-# Code README for the Assignment
+# Clarification about Code Assignment about The Perception Lesson in Search and Sample Return
 
 This README file provides an overview of the code used in the perception step of the robotics project. It gives an introduction to the purpose of the code, explains the steps involved in reading and analyzing the image, and outlines the color thresholding process. For the actual code implementation, refer to the Jupyter Notebook associated with this assignment.
 
